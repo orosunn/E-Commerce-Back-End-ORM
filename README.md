@@ -10,7 +10,7 @@ In this project I assembled the back-end for a general E-Commerce application. I
 - [Questions](#questions)
       
 ## Usage
-There are routes for creating, editing, deleting, finding all, and finding specifics applied to products, categories, and tags.
+There are routes for creating, editing, deleting, finding all, and finding specifics applied to products, categories, and tags. See <a href='https://drive.google.com/file/d/1MGjJ1lRjj8NrN3tm-d9_h5P1woVZo_mw/view'>here</a>.
       
 ## License
 This application is covered under the MIT license.
